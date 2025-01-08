@@ -101,8 +101,8 @@ The dataset is split into training and test datasets:
 ### **How to Run the Code**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/AJ120294/MLHousePricePredictor.git
+   cd MLHousePricePredictor
    ```
 2. Install required libraries:
    ```bash
