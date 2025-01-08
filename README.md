@@ -23,11 +23,7 @@ This project aims to predict house prices using the **Ames Housing Dataset**, fo
 ---
 
 ### **Problem Statement**
-The goal of this project is to predict the sale price of houses in the test dataset with the lowest possible RMSE. The metric is calculated as:
-
-\[
-RMSE = \sqrt{\frac{1}{n} \sum_{i=1}^{n} \left( \log(\hat{y}_i) - \log(y_i) \right)^2}
-\]
+The goal of this project is to predict the sale price of houses in the test dataset with the lowest possible RMSE.
 
 ---
 
